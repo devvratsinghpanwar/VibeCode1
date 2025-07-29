@@ -2,7 +2,7 @@
 
 A beautiful, responsive, and feature-rich dashboard application built with React, TypeScript, and modern web technologies. This project showcases a comprehensive admin interface with user management, analytics, reports, and settings functionality.
 
-![Dashboard Preview](https://vibe-code1.vercel.app/)
+![Dashboard Preview](https://via.placeholder.com/1200x600/667eea/ffffff?text=Modern+Dashboard+Preview)
 
 ## ✨ Features
 
